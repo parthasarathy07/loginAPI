@@ -1,6 +1,7 @@
-package com.loginAPI.login.implementation;
+package com.loginAPI.login.controller;
 
-import com.loginAPI.login.Student;
+import com.loginAPI.login.model.Student;
+import com.loginAPI.login.service.StudentService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

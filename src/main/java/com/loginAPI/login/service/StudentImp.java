@@ -1,6 +1,7 @@
-package com.loginAPI.login;
+package com.loginAPI.login.service;
 
-import com.loginAPI.login.implementation.StudentService;
+import com.loginAPI.login.model.Student;
+import com.loginAPI.login.dbHelper.StudentRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

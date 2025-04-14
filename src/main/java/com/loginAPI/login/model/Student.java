@@ -1,4 +1,4 @@
-package com.loginAPI.login;
+package com.loginAPI.login.model;
 
 import jakarta.persistence.*;
 

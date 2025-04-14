@@ -1,6 +1,6 @@
-package com.loginAPI.login.implementation;
+package com.loginAPI.login.service;
 
-import com.loginAPI.login.Student;
+import com.loginAPI.login.model.Student;
 
 import java.util.List;
 
